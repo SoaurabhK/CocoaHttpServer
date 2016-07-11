@@ -22,7 +22,7 @@ Sometimes developers need an embedded HTTP server in their app. Perhaps it's a s
 
 Useful References -
 
-https://github.com/robbiehanson/CocoaHTTPServer
+https://github.com/robbiehanson/CocoaHTTPServer - Official Library Source
 
 http://www.deusty.com/2010/11/introducing-gcd-based-cocoahttpserver.html
 
@@ -38,4 +38,5 @@ https://github.com/swisspol/GCDWebServer
 
 https://github.com/facebook/SocketRocket
 
-Note - cocoaHttpServer can help creating any type of server on OSX or iOS.
+Note - cocoaHttpServer can help creating any type of server on OSX or iOS. 
+It's a copied version, link to official source - https://github.com/robbiehanson/CocoaHTTPServer
