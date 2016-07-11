@@ -20,8 +20,13 @@ Sometimes developers need an embedded HTTP server in their app. Perhaps it's a s
 -   Very easily extensible
 -   WebDAV is supported too!
 
-<br/>
-Can't find the answer to your question in any of the [wiki](https://github.com/robbiehanson/CocoaHTTPServer/wiki) articles? Try the **[mailing list](http://groups.google.com/group/cocoahttpserver)**.
-<br/>
-<br/>
-Love the project? Wanna buy me a coffee? (or a beer :D) [![donation](http://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHF2DJRETGV5S)
+Useful References -
+https://github.com/robbiehanson/CocoaHTTPServer
+http://www.deusty.com/2010/11/introducing-gcd-based-cocoahttpserver.html
+https://groups.google.com/forum/#!forum/cocoahttpserver
+http://stackoverflow.com/questions/1780368/change-download-file-name-in-cocoahttpserver
+https://cocoapods.org/pods/CocoaHTTPServer
+https://github.com/mattstevens/RoutingHTTPServer
+https://github.com/swisspol/GCDWebServer
+https://github.com/facebook/SocketRocket
+Note - cocoaHttpServer can help creating any type of server on OSX or iOS.
